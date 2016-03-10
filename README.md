@@ -3,6 +3,8 @@
 ##MIT App Inventor 2 Screenshots
 ![Screen_1](Screen_1.png)
 ![Screen_1_Blocks_1](Screen_1_Blocks_1.png)
+![Screen_1_Blocks_2](Screen_1_Blocks_2.png)
+![Screen_1_Blocks_3](Screen_1_Blocks_3.png)
 
 ##App Screenshots
 ![Screenshot_1](Screenshot_1.png)
